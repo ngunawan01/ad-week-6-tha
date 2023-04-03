@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ad_sem2_week6_tha_winsform_soalRoccaIdol", "ad_sem2_week6_tha_winsform_soalRoccaIdol\ad_sem2_week6_tha_winsform_soalRoccaIdol.csproj", "{8CF4BE27-F369-4590-B43B-EC5048B42B69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CF4BE27-F369-4590-B43B-EC5048B42B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF4BE27-F369-4590-B43B-EC5048B42B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF4BE27-F369-4590-B43B-EC5048B42B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF4BE27-F369-4590-B43B-EC5048B42B69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {456B97EF-7696-402E-9507-1321A5152E78}
+	EndGlobalSection
+EndGlobal
